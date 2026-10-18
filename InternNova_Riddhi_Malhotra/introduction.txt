@@ -1,0 +1,3 @@
+Hello, my name is Riddhi.
+I am a student of Computer Science at MGKVP.
+I am passionate about Frontend Development and Data Analytics.
