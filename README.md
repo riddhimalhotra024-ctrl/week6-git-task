@@ -28,7 +28,7 @@ The EDA process was carried out to uncover meaningful patterns and relationships
 The following screenshots highlight key aspects of student performance:
 
 - **Scatter Plot – Study Hours vs Scores**  
-  ![Scatter Plot – Study Hours vs Scores](screenshots/scatter_plot.png)
+  ![Scatter Plot – Study Hours vs Scores](scatter_plot.png)
 
 - **Line Graph – Performance Trends**  
   ![Line Graph – Performance Trends](screenshots/line_chart.png)
