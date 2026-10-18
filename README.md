@@ -23,7 +23,7 @@ The dataset was carefully inspected to ensure accuracy and consistency before an
 The EDA process was carried out to uncover meaningful patterns and relationships within the dataset. Descriptive statistics were used to summarize key variables such as study hours, attendance, and subject scores. Visualizations helped identify distributions and highlight trends, including how study hours correlated with higher performance and how attendance percentages impacted overall grades. Comparative analysis was performed across categories like gender, parental education, and internet access to observe differences in student outcomes. Correlation analysis revealed strong positive relationships between study hours and scores, while attendance also showed a significant influence. Outliers, such as students with extremely high study hours but low scores, were identified and examined to understand anomalies. This stage provided the foundation for deeper insights and guided the design of the Power BI dashboard, ensuring that the most relevant factors were highlighted for decision‑making.
 
 ## 📈 Visualizations
-## 📊 Visualizations
+
 
 The following screenshots highlight key aspects of student performance:
 
@@ -31,17 +31,17 @@ The following screenshots highlight key aspects of student performance:
   ![Scatter Plot – Study Hours vs Scores](scatter_plot.png)
 
 - **Line Graph – Performance Trends**  
-  ![Line Graph – Performance Trends](screenshots/line_chart.png)
+  ![Line Graph – Performance Trends](line_chart.png)
 
 - **Pie Chart – Parental Education Distribution**  
-  ![Pie Chart – Parental Education Distribution](screenshots/pie_chart.png)
+  ![Pie Chart – Parental Education Distribution](pie_chart.png)
 
 - **Bar Chart – Gender vs Average Scores**  
-  ![Bar Chart – Gender vs Average Scores](screenshots/bar_chart.png)
+  ![Bar Chart – Gender vs Average Scores](bar_chart.png)
 
 
 ## 📊 Power BI Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 The Power BI dashboard serves as the central visualization tool for this project, bringing together all the cleaned and analyzed data into an interactive format. It includes multiple charts and KPI cards that provide a comprehensive view of student performance. Scatter plots highlight the relationship between study hours and subject scores, while bar charts compare performance across gender and internet access categories. Pie charts illustrate parental education distribution, and line graphs track performance trends. KPI cards summarize key metrics such as average study hours, attendance percentage, and overall pass rate. The dashboard also incorporates slicers and filters, allowing users to interact with the data by selecting specific categories or ranges. This interactive design enables educators and stakeholders to explore insights dynamically, identify patterns, and make informed decisions based on real‑time analysis.
 ## 💡 Key Insights
 Study Hours and Scores – Students who dedicate more study hours consistently achieve higher average scores across subjects, showing a strong positive correlation.
